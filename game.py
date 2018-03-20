@@ -6,7 +6,6 @@ import random
 #		self.name = newName
 #		print(self.name)
 		
-#lgdaudguigdh
 #myGame = Game(newName='hello')
 
 #STARTING SCREEN------------------------------------*
