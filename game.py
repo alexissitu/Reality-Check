@@ -8,6 +8,8 @@ import random
 		
 #myGame = Game(newName='hello')
 
+##checking forking behavior
+
 #STARTING SCREEN------------------------------------*
 print("Welcome to your \"REALITY CHECK\"!")
 print("A simulation of a virtual life")
